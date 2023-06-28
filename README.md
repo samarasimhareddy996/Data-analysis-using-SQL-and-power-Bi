@@ -1,7 +1,5 @@
 ## Sales Insights Data Analysis Project
 
-### Instructions to setup mysql on your local computer
-
 ### Data Analysis Using SQL
 
 1. Show all customer records
